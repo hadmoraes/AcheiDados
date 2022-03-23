@@ -4,11 +4,11 @@ USE steam;
 
 CREATE TABLE `games` (
   `id` int PRIMARY KEY,
-  `name` varchar(200),
+  `name` varchar(300),
   `release_date` date,
-  `platforms` varchar(20),
-  `categories` varchar(200),
-  `genres` varchar(200)
+  `platforms` varchar(50),
+  `categories` varchar(500),
+  `genres` varchar(500)
 );
 
 CREATE TABLE `games_data` (
@@ -28,8 +28,8 @@ CREATE TABLE `games_income` (
 
 CREATE TABLE `support` (
   `id_game` int,
-  `website` varchar(200),
-  `support_url` varchar(200)
+  `website` varchar(300),
+  `support_url` varchar(300)
 );
 
 ALTER TABLE `games_data` ADD FOREIGN KEY (`id_game`) REFERENCES `games` (`id`);
