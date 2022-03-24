@@ -1,6 +1,6 @@
 # Projeto Visualização de dados :bar_chart:
 
-## Sobre o projeto
+## Sobre o projeto :green_book:
 Neste projeto, a equipe montou um dashboard com base no conjunto de dados escolhidos da Steam.
 O projeto foi desenvolvido utilizando as metodologias ágeis Scrum e Kanban. O Scrum foi dividido em:
 
@@ -13,20 +13,20 @@ O projeto foi desenvolvido utilizando as metodologias ágeis Scrum e Kanban. O S
 ### :page_with_curl: Sprint 2:
 * Criação de visualizações dos dados com base nas perguntas elaboradas.
 
-## Status do projeto
+## Status do projeto :white_check_mark:
 Em andamento
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas :computer:
 * My SQL Workbentch
 * Microsoft Excel
 * 
 
-## Requisitos mínimos
+## Requisitos mínimos 
 
 
 ## Demonstração da aplicação
 
-## Autores
+## Autores :octocat:
 - [Hadassa Moraes](https://github.com/hadmoraes)
 - [Izadora Ferreira](https://github.com/izadorafsantos)
 - [Annanda Santos](https://github.com/asnts)
