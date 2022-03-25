@@ -30,7 +30,7 @@ Em andamento
 - [Hadassa Moraes](https://www.linkedin.com/in/hadassa-moraes-5a6712230?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADnFNc4Bne43JnQ1htH7Lb9y3u4PRiQGlu4&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BhdSUZ4q2QLifd0i7g7Lt%2FQ%3D%3D)
 - [Izadora Ferreira](https://www.linkedin.com/in/izadora-ferreira-dos-santos-0504b2177/)
 - [Annanda Santos](https://www.linkedin.com/in/annanda-santos-a93196142/)
-- [Eduardo Fortes]()
+- [Eduardo Fortes](https://www.linkedin.com/in/eduardo-fortes-a3a024a4/)
 - [Caíque]
 
 
