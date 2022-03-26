@@ -31,7 +31,7 @@ Em andamento
 - [Izadora Ferreira](https://www.linkedin.com/in/izadora-ferreira-dos-santos-0504b2177/)
 - [Annanda Santos](https://www.linkedin.com/in/annanda-santos-a93196142/)
 - [Eduardo Fortes](https://www.linkedin.com/in/eduardo-fortes-a3a024a4/)
-- [Caíque]
+- [Caíque](https://www.linkedin.com/in/caique-araujo-267b36163/)
 
 
 
