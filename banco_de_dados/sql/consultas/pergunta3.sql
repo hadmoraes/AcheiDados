@@ -1,4 +1,4 @@
--- Quais as categorias (single players, multiplayers e ambos os modos) dos jogos mais baixados ?
+-- Quais as categorias (single players, multiplayers e ambos os modos) dos jogos mais adquiridos ?
 
 select
 	*
@@ -9,7 +9,7 @@ from
 		from 
 			jogos_mais_baixados
 		where 
-			categories like '%Single-player%' and categories not like '%Multi-player%'
+			categorias like '%Single-player%' and categorias not like '%Multi-player%'
     ) as sp
     join
     (
@@ -18,7 +18,7 @@ from
 		from 
 			jogos_mais_baixados
 		where 
-			categories like '%Multi-player%' and categories not like '%Single-player%'
+			categorias like '%Multi-player%' and categorias not like '%Single-player%'
     ) as mp
     join
     (
@@ -27,6 +27,6 @@ from
 		from 
 			jogos_mais_baixados
 		where 
-		categories like '%Single-player%Multi-player%' or categories like '%Multi-player%Single-player%'
+		categorias like '%Single-player%Multi-player%' or categorias like '%Multi-player%Single-player%'
     ) as msp
 ;
