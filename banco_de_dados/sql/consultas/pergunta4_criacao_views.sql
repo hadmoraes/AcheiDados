@@ -1,82 +1,78 @@
--- Qual o percentual dos  sistemas operacionais como requisito dos jogos?
+-- Qual o percentual dos  sistemas operacionais como requisito dos jogos mais baixados?
 
--- total de jogos
 
-select count(*) from steam_dados;
-select * from steam_dados;
-
--- só windows 1367
+-- só windows
 create view total_windows as
 select 
 	count(*)  as total_w
 from 
-	steam.steam_dados
+	jogos_mais_baixados
 where 
-	platforms = 'windows'
+	sistemas_operacionais = 'windows'
 ; 
 
--- só mac 1
+-- só mac 
 create view total_mac as
 select 
 	count(*)  as total_m
 from 
-	steam.steam_dados
+	jogos_mais_baixados
 where 
-	platforms = 'mac'
+	sistemas_operacionais = 'mac'
 ; 
 
--- só linux zero
+-- só linux 
 create view total_linux as
 select 
 	count(*)  as total_l
 from 
-	steam.steam_dados
+	jogos_mais_baixados
 where 
-	platforms = 'linux'
+	sistemas_operacionais = 'linux'
 ; 
 
--- só windows + mac 301
+-- só windows + mac 
 
 create view total_windowsmac as
 select 
 	count(*)  as total_wm
 from 
-	steam.steam_dados
+	jogos_mais_baixados
 where 
-	platforms = 'windows;mac'
+	sistemas_operacionais = 'windows;mac'
 ; 
 
--- só windows + linux 19
+-- só windows + linux
 
 create view total_windowslinux as
 select 
 	count(*)  as total_wl
 from 
-	steam.steam_dados
+	jogos_mais_baixados
 where 
-	platforms = 'windows;linux'
+	sistemas_operacionais = 'windows;linux'
 ; 
     
--- só mac + linux zero
+-- só mac + linux 
 
 create view total_maclinux as
 select 
 	count(*)  as total_ml
 from 
-	steam.steam_dados
+	jogos_mais_baixados
 where 
-	platforms = 'mac;linux'
+	sistemas_operacionais = 'mac;linux'
 ; 
         
--- os 3   471
+-- os 3  
 
 create view total_windowsmaclinux as
 select 
 	count(*) as total_wml
 from 
-	steam.steam_dados 
+	jogos_mais_baixados
 where 
-	platforms = 'windows;mac;linux'
+	sistemas_operacionais = 'windows;mac;linux'
 ;
 
 
