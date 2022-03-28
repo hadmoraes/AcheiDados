@@ -3,14 +3,15 @@
 create view jogos_mais_baixados as
 select 
 	appid as id,
-    name,
-    genres,
-    categories,
-    round((owners_max+owners_min)/2,0) as owners_average 
+    name as nome,
+    genres as generos,
+    categories as categorias,
+    platforms as sistemas_operacionais,
+    round((owners_max+owners_min)/2,0) as total_aquisicoes
 from 
 	steam_dados
 order by
-	owners_average desc
+	total_aquisicoes desc
 limit 20
 ;
 
