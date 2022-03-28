@@ -1,0 +1,21 @@
+id,nome,generos,categorias,sistemas_operacionais,total_aquisicoes
+570,"Dota 2","Action;Free to Play;Strategy","Multi-player;Co-op;Steam Trading Cards;Steam Workshop;SteamVR Collectibles;In-App Purchases;Valve Anti-Cheat enabled",windows;mac;linux,150000000
+730,"Counter-Strike: Global Offensive","Action;Free to Play","Multi-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;In-App Purchases;Valve Anti-Cheat enabled;Stats",windows;mac;linux,75000000
+578080,"PLAYERUNKNOWN'S BATTLEGROUNDS","Action;Adventure;Massively Multiplayer","Multi-player;Online Multi-Player;Stats",windows,75000000
+440,"Team Fortress 2","Action;Free to Play","Multi-player;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Captions available;Steam Workshop;In-App Purchases;Partial Controller Support;Valve Anti-Cheat enabled;Stats;Includes level editor;Commentary available",windows;mac;linux,35000000
+230410,Warframe,"Action;Free to Play","Single-player;Multi-player;Co-op;Steam Trading Cards;In-App Purchases;Partial Controller Support",windows,35000000
+304930,Unturned,"Action;Adventure;Casual;Free to Play;Indie","Single-player;Online Multi-Player;Online Co-op;Steam Achievements;Steam Trading Cards;VR Support;Steam Workshop;In-App Purchases;Steam Cloud;Valve Anti-Cheat enabled;Stats;Includes level editor",windows;mac;linux,35000000
+271590,"Grand Theft Auto V",Action;Adventure,"Single-player;Multi-player;Steam Achievements;Full controller support",windows,15000000
+301520,Robocraft,"Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation","Multi-player;Online Multi-Player;MMO;Online Co-op;Steam Achievements;Steam Trading Cards;In-App Purchases",windows;mac;linux,15000000
+291480,Warface,"Action;Free to Play;Massively Multiplayer","Multi-player;Online Multi-Player;MMO;Co-op;Online Co-op;Steam Achievements;Steam Trading Cards;In-App Purchases",windows,15000000
+291550,Brawlhalla,"Action;Free to Play;Indie","Single-player;Multi-player;Online Multi-Player;Local Multi-Player;Co-op;Online Co-op;Local Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards",windows;mac,15000000
+10,Counter-Strike,Action,"Multi-player;Online Multi-Player;Local Multi-Player;Valve Anti-Cheat enabled",windows;mac;linux,15000000
+4000,"Garry's Mod",Indie;Simulation,"Single-player;Multi-player;Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Includes level editor",windows;mac;linux,15000000
+620,"Portal 2",Action;Adventure,"Single-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Stats;Includes level editor;Commentary available",windows;mac;linux,15000000
+550,"Left 4 Dead 2",Action,"Single-player;Multi-player;Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Valve Anti-Cheat enabled;Stats;Includes Source SDK;Commentary available",windows;mac;linux,15000000
+227940,"Heroes & Generals","Action;Free to Play;Indie;Massively Multiplayer","Multi-player;Online Multi-Player;MMO;Online Co-op;In-App Purchases",windows,15000000
+400,Portal,Action,"Single-player;Steam Achievements;Captions available;Partial Controller Support;Includes level editor;Includes Source SDK;Commentary available",windows;mac;linux,15000000
+238960,"Path of Exile","Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG","Single-player;Multi-player;Online Multi-Player;MMO;Co-op;Steam Achievements;Steam Trading Cards;In-App Purchases",windows,15000000
+340,"Half-Life 2: Lost Coast",Action,"Single-player;Commentary available",windows;mac;linux,15000000
+320,"Half-Life 2: Deathmatch",Action,"Multi-player;Valve Anti-Cheat enabled;Includes Source SDK",windows;mac;linux,15000000
+72850,"The Elder Scrolls V: Skyrim",RPG,"Single-player;Steam Achievements;Steam Trading Cards;Steam Workshop;Partial Controller Support;Steam Cloud",windows,15000000
