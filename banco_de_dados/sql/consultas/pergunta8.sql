@@ -2,6 +2,7 @@
 
 select
 	jogos_mais_bem_avaliados.id,
+    jogos_mais_bem_avaliados.nome as jogos_mais_avaliados,
     jogos_mais_baixados.nome as jogos_mais_baixados,
 	total_avaliacoes,
     total_aquisicoes,
