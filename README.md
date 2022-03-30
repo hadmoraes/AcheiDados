@@ -1,5 +1,10 @@
 # Projeto Visualização de dados :bar_chart:
 
+<p align=center>
+   <img src= "https://user-images.githubusercontent.com/92602538/160718480-c087e8c3-417a-4b62-8aee-6a237d9550db.jpg" width=500> 
+</p>
+
+
 ## Sobre o projeto :green_book:
 Neste projeto, a equipe montou um dashboard com base no conjunto de dados escolhidos da Steam, encontrados [neste link](https://drive.google.com/drive/folders/16mAGr-qUw6D3crOmOKR9AvgYOzKoHGhu). O projeto foi desenvolvido utilizando as metodologias ágeis Scrum e Kanban. O Scrum foi dividido em:
 
@@ -15,17 +20,18 @@ Neste projeto, a equipe montou um dashboard com base no conjunto de dados escolh
 * Criação de visualizações dos dados com base nas perguntas elaboradas.
 
 ## Status do projeto :white_check_mark:
-Em andamento
+Concluído
 
 ## Tecnologias utilizadas :computer:
-* My SQL Workbentch 8.0
+* MySQL Workbench 8.0
 * Google Data Studio;
-* Google sheets
+* Google Sheets
 
-## Requisitos mínimos 
+## Requisitos mínimos
 
 
 ## Demonstração da aplicação
+O visualização completa de todos os dados está disponível [aqui](https://datastudio.google.com/u/0/reporting/a1bb0f6b-2930-465d-90cb-d8fb3d9b6be1).
 
 ## Autores :octocat:
 - [Hadassa Moraes](https://www.linkedin.com/in/hadassa-moraes-5a6712230?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADnFNc4Bne43JnQ1htH7Lb9y3u4PRiQGlu4&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BhdSUZ4q2QLifd0i7g7Lt%2FQ%3D%3D)
