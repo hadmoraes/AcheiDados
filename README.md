@@ -6,7 +6,7 @@
 
 
 ## Sobre o projeto 📘
-Neste projeto, a equipe montou um dashboard com base no conjunto de dados escolhidos da Steam, encontrados [neste link](https://drive.google.com/drive/folders/16mAGr-qUw6D3crOmOKR9AvgYOzKoHGhu). O projeto foi desenvolvido utilizando as metodologias ágeis Scrum e Kanban. O Scrum foi dividido em:
+Neste projeto, a equipe montou um banco de dados e uma dashboard com base no conjunto de dados escolhidos da Steam, encontrados [neste link](https://drive.google.com/drive/folders/16mAGr-qUw6D3crOmOKR9AvgYOzKoHGhu). O projeto foi desenvolvido utilizando as metodologias ágeis Scrum e Kanban. O Scrum foi dividido em:
 
 ### :page_with_curl:  Sprint 1: 
 * Estruturação do esquema do banco de dados a partir da avaliação  do conjunto de dados da Steam e  modelar as tabelas do banco.;
